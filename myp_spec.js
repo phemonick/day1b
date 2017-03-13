@@ -9,7 +9,7 @@
       });
 
       it("should return `[2, 3, 5, 7]` for 8", function() {
-        expect(myApp.getPrime(8)).toEqual( 2, 3, 5, 7);
+        expect(myApp.getPrime(8)).toEqual( [2, 3, 5, 7]);
       });
 
       it("should return `[ 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 ]` for 50", function() {
