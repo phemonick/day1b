@@ -1,13 +1,13 @@
 function getPrime(inpu){
-	var arr=[]
+	var list=[]
 	var i;
     for(i=2; i<=inpu; i++){
     		if(check(i)==true){
-    		arr.push(i)
+    		list.push(i)
     	
-    }
+    }    
 }
-    	return arr;
+    	return list;
 }
 function check( n) {
     for( i=2;i<n;i++) {
