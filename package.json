@@ -1,0 +1,12 @@
+{
+  "name": "Day1b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isP.js",
+  "scripts": {
+    "test": "jasmine myp_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
